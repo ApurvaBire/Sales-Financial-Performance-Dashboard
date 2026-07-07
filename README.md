@@ -70,7 +70,8 @@ This project simulates **2 years (FY2024–FY2025)** of retail sales across **4 
 ├── Sales_Performance_Workbook.xlsx        # Full analytical workbook (6 sheets)
 ├── Sales Performance_Excel Dashboard.xlsx # Clean, dashboard-only version (1 sheet)
 ├── Sales Excel dashboard_screenshot.png   # Preview of the dashboard
-└── LICENSE                                # MIT License
+└── Sales & Financial Performance Excel Dashboard.pdf  # Project Report
+└── LICENSE                                            # MIT License
 ```
 
 ## How to Use
