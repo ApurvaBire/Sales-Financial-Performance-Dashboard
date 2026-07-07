@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="banner.png" alt="Sales & Financial Performance Dashboard Banner" width="100%">
 </p>
