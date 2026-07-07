@@ -67,9 +67,9 @@ This project simulates **2 years (FY2024–FY2025)** of retail sales across **4 
 ├── README.md                              # This file
 ├── banner.png                             # Project banner
 ├── synthetic_sales_data.csv               # Raw synthetic dataset (2,527 transactions)
-├── Sales_Performance_Dashboard.xlsx       # Full analytical workbook (6 sheets)
-├── Sales_Dashboard_Single_Sheet.xlsx      # Clean, dashboard-only version (1 sheet)
-├── dashboard_screenshot.png               # Preview of the dashboard
+├── Sales_Performance_Workbook.xlsx        # Full analytical workbook (6 sheets)
+├── Sales Performance_Excel Dashboard.xlsx # Clean, dashboard-only version (1 sheet)
+├── Sales Excel dashboard_screenshot.png   # Preview of the dashboard
 └── LICENSE                                # MIT License
 ```
 
