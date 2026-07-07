@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Sales & Financial Performance Dashboard Banner" width="100%">
+  <img src="banner.png" alt="Sales & Financial Performance Dashboard Banner" width="100%">
 </p>
 
 <h1 align="center">Sales & Financial Performance Dashboard</h1>
