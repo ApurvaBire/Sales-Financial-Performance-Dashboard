@@ -39,7 +39,7 @@ This project simulates **2 years (FY2024–FY2025)** of retail sales across **4 
 ## Dashboard Preview
 
 <p align="center">
-  <img src="dashboard_screenshot.png" alt="Dashboard Preview" width="90%">
+  <img src="Sales Excel dashboard_screenshot.png" alt="Dashboard Preview" width="90%">
 </p>
 
 ## Key Features
