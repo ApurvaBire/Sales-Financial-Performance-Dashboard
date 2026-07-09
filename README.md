@@ -76,13 +76,15 @@ This project simulates **2 years (FY2024–FY2025)** of retail sales across **4 
 
 ## How to Use
 
-**Full analytical workbook** — `Sales_Performance_Dashboard.xlsx`
+**Full analytical workbook** —
+`Sales_Performance_Workbook.xlsx`
 1. Download and open in Excel (2019+ recommended for XLOOKUP support; falls back gracefully on older versions)
 2. Start on the **Dashboard** tab — use the Region dropdown to filter
 3. Explore **What_If_Analysis** to test Best/Likely/Worst scenarios
 4. Optional: follow the **README** tab inside the workbook to add Power Query, Power Pivot, DAX, and a VBA macro
 
-**Single-sheet dashboard** — `Sales_Dashboard_Single_Sheet.xlsx`
+**Single-sheet dashboard** — 
+`Sales Performance_Excel Dashboard.xlsx`
 1. Download and open — everything lives on one clean **Dashboard** sheet
 2. Use the Region filter dropdown to update KPIs and charts instantly
 3. A quick, presentation-ready view for anyone who just wants the dashboard without the underlying analysis sheets
